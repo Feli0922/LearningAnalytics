@@ -182,7 +182,7 @@ label {
 
 /* line 109, C:/Users/SPN Graphics/Desktop/CL September/Edu mark/207 Education/HTML/scss/_reset.scss */
 h3 {
-  font-size: 24px;
+  font-size: 18px;
 }
 
 /* line 113, C:/Users/SPN Graphics/Desktop/CL September/Edu mark/207 Education/HTML/scss/_reset.scss */
@@ -6657,3 +6657,13 @@ h6 {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+.in-text-img {
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+.block-text {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
